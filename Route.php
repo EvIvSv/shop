@@ -1,0 +1,1 @@
+<?php// Поиск и подключение нужного контроллераclass Route{	public function Run()	{		$a = '';		if (isset($_GET['str'])) 			$a = $_GET['str'];				if ($a == '')			$a = 'NewPro'; // задание начальной страницы				// Подключение и старт контроллера		include_once('Controller/C_'.$a.'.php');		$name_contr = 'C_'.$a;		$contr = new $name_contr;		$contr->Request();		}}

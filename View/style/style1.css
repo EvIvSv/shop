@@ -1,0 +1,1173 @@
+.content .postcontent-0 .layout-item-0 
+{
+	border-top-style:solid;
+	border-right-style:solid;
+	border-bottom-style:solid;
+	border-left-style:solid;
+	border-width:1px;
+	border-top-color:#B2D1D7;
+	border-right-color:#B2D1D7;
+	border-bottom-color:#B2D1D7;
+	border-left-color:#B2D1D7;  
+}
+.content .postcontent-0 .layout-item-1 
+{ 
+	padding-right: 10px;
+	padding-left: 10px;
+}
+.ie7 .post .layout-cell 
+{
+	border:none !important; padding:0 !important; 
+}
+.ie6 .post .layout-cell 
+{
+	border:none !important; 
+	padding:0 !important; 
+}
+
+#main
+{
+   background: #E1EDEF;
+   margin:0 auto;
+   font-size: 13px;
+   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-weight: normal;
+   font-style: normal;
+   position: relative;
+   width: 100%;
+   min-height: 100%;
+   left: 0;
+   top: 0;
+   cursor:default;
+   overflow:hidden;
+}
+
+h1, h2, h3, h4, h5, h6, p, a, ul, ol, li
+{
+   margin: 0;
+   padding: 0;
+}
+
+/* Reset buttons border. It's important for input and button tags. 
+ * border-collapse should be separate for shadow in IE. 
+ */
+.button
+{
+   border: 0;
+   border-collapse: separate;
+   -webkit-background-origin: border !important;
+   -moz-background-origin: border !important;
+   background-origin: border-box !important;
+   background: #9AC3CB;
+   -webkit-border-radius:3px;
+   -moz-border-radius:3px;
+   border-radius:3px;
+   border-width: 0;
+   padding:0 21px;
+   margin:0 auto;
+   height:24px;
+}
+
+.postcontent,
+.postheadericons,
+.postfootericons,
+.blockcontent,
+ul.vmenu a 
+{
+   text-align: left;
+}
+.blockcontent h3, .cent 
+{
+   text-align: center;
+}
+.rig
+{
+   text-align: right;
+}
+
+.postcontent,
+.postcontent li,
+.postcontent table,
+.postcontent a,
+.postcontent a:link,
+.postcontent a:visited,
+.postcontent a.visited,
+.postcontent a:hover,
+.postcontent a.hovered
+{
+   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   line-height: 175%;
+}
+
+.postcontent p
+{
+   margin: 0 auto;
+}
+
+.postcontent h1, .postcontent h1 a, .postcontent h1 a:link, .postcontent h1 a:visited, .postcontent h1 a:hover,
+.postcontent h2, .postcontent h2 a, .postcontent h2 a:link, .postcontent h2 a:visited, .postcontent h2 a:hover,
+.postcontent h3, .postcontent h3 a, .postcontent h3 a:link, .postcontent h3 a:visited, .postcontent h3 a:hover,
+.postcontent h4, .postcontent h4 a, .postcontent h4 a:link, .postcontent h4 a:visited, .postcontent h4 a:hover,
+.blockheader .t, .blockheader .t a, .blockheader .t a:link, .blockheader .t a:visited, .blockheader .t a:hover,
+.vmenublockheader .t, .vmenublockheader .t a, .vmenublockheader .t a:link, .vmenublockheader .t a:visited, .vmenublockheader .t a:hover,
+.headline, .headline a, .headline a:link, .headline a:visited, .headline a:hover,
+.slogan, .slogan a, .slogan a:link, .slogan a:visited, .slogan a:hover,
+.postheader, .postheader a, .postheader a:link, .postheader a:visited, .postheader a:hover
+{
+   font-size: 22px;
+   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-weight: normal;
+   font-style: normal;
+   line-height: 120%;
+}
+
+.postcontent a, .postcontent a:link
+{
+   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   text-decoration: none;
+   color: #5EC3D9;
+}
+
+.postcontent a:visited, .postcontent a.visited
+{
+   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   text-decoration: none;
+   color: #579BA8;
+}
+
+.postcontent  a:hover, .postcontent a.hover
+{
+   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   text-decoration: underline;
+   color: #195C6B;
+}
+
+.postcontent h1
+{
+   color: #40A6BF;
+   margin: 10px 0 0;
+   font-size: 26px;
+   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+}
+
+.blockcontent h1
+{
+   margin: 10px 0 0;
+   font-size: 26px;
+   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+}
+
+.postcontent h1 a, .postcontent h1 a:link, .postcontent h1 a:hover, .postcontent h1 a:visited, .blockcontent h1 a, .blockcontent h1 a:link, .blockcontent h1 a:hover, .blockcontent h1 a:visited 
+{
+   font-size: 26px;
+   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+}
+
+.postcontent h2
+{
+   color: #6AB9CD;
+   margin: 10px 0 0;
+   font-size: 22px;
+   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+}
+
+.blockcontent h2
+{
+   margin: 10px 0 0;
+   font-size: 22px;
+   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+}
+
+.postcontent h2 a, .postcontent h2 a:link, .postcontent h2 a:hover, .postcontent h2 a:visited, .blockcontent h2 a, .blockcontent h2 a:link, .blockcontent h2 a:hover, .blockcontent h2 a:visited 
+{
+   font-size: 22px;
+   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+}
+
+.postcontent h3
+{
+   color: #A1C7CE;
+   margin: 10px 0 0;
+   font-size: 20px;
+   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+}
+
+.blockcontent h3
+{
+   margin: 10px 0 0;
+   font-size: 20px;
+   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+}
+
+.postcontent h3 a, .postcontent h3 a:link, .postcontent h3 a:hover, .postcontent h3 a:visited, .blockcontent h3 a, .blockcontent h3 a:link, .blockcontent h3 a:hover, .blockcontent h3 a:visited 
+{
+   font-size: 20px;
+   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+}
+
+.postcontent h4
+{
+   color: #2A6D7E;
+   margin: 10px 0 0;
+   font-size: 18px;
+   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+}
+
+.blockcontent h4
+{
+   margin: 10px 0 0;
+   font-size: 18px;
+   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+}
+
+.postcontent h4 a, .postcontent h4 a:link, .postcontent h4 a:hover, .postcontent h4 a:visited, .blockcontent h4 a, .blockcontent h4 a:link, .blockcontent h4 a:hover, .blockcontent h4 a:visited 
+{
+   font-size: 18px;
+   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+}
+
+header, footer, article, nav, #hmenu-bg, .sheet, .hmenu a, .vmenu a, .slidenavigator > a, .checkbox:before, .radiobutton:before
+{
+   -webkit-background-origin: border !important;
+   -moz-background-origin: border !important;
+   background-origin: border-box !important;
+}
+
+header, footer, article, nav, #hmenu-bg, .sheet, .slidenavigator > a, .checkbox:before, .radiobutton:before
+{
+   display: block;
+   -webkit-box-sizing: border-box;
+   -moz-box-sizing: border-box;
+   box-sizing: border-box;
+}
+
+ul
+{
+   list-style-type: none;
+}
+
+html, body
+{
+   height: 100%;
+}
+
+body
+{
+   padding: 0;
+   margin:0;
+   min-width: 900px;
+   color: #000000;
+}
+
+.header:before, #header-bg:before, .layout-cell:before, .layout-wrapper:before, .footer:before, .nav:before, #hmenu-bg:before, .sheet:before
+{
+   width: 100%;
+   content: " ";
+   display: table;
+}
+.header:after, #header-bg:after, .layout-cell:after, .layout-wrapper:after, .footer:after, .nav:after, #hmenu-bg:after, .sheet:after,
+.cleared, .clearfix:after 
+{
+   clear: both;
+   font: 0/0 serif;
+   display: block;
+   content: " ";
+}
+
+form
+{
+   padding: 0 !important;
+   margin: 0 !important;
+}
+
+
+li h1, .postcontent li h1, .blockcontent li h1 
+{
+   margin:1px;
+} 
+li h2, .postcontent li h2, .blockcontent li h2 
+{
+   margin:1px;
+} 
+li h3, .postcontent li h3, .blockcontent li h3 
+{
+   margin:1px;
+} 
+li p, .postcontent li p, .blockcontent li p 
+{
+   margin:1px;
+}
+
+.shapes
+{
+   position: absolute;
+   top: 0;
+   right: 0;
+   bottom: 0;
+   left: 0;
+   overflow: hidden;
+   z-index: 0;
+}
+
+
+.header
+{
+   margin:10px auto 0;
+   height: 110px;
+   background-image: url('../images/header.jpg');
+   background-position: 0 0;
+   background-repeat: no-repeat;
+   position: relative;
+   width: 900px;
+   z-index: auto !important;
+}
+
+.responsive .header 
+{
+   background-image: url('../images/header.jpg');
+   background-position: center center;
+}
+
+.nav
+{
+   background: #B2D1D7;
+   background: linear-gradient(top, #CDE1E5 0, #97C1C9 100%) no-repeat;
+   background: -webkit-linear-gradient(top, #CDE1E5 0, #97C1C9 100%) no-repeat;
+   background: -moz-linear-gradient(top, #CDE1E5 0, #97C1C9 100%) no-repeat;
+   background: -o-linear-gradient(top, #CDE1E5 0, #97C1C9 100%) no-repeat;
+   background: -ms-linear-gradient(top, #CDE1E5 0, #97C1C9 100%) no-repeat;
+   background: linear-gradient(top, #CDE1E5 0, #97C1C9 100%) no-repeat;
+   -svg-background: linear-gradient(top, #CDE1E5 0, #97C1C9 100%) no-repeat;
+   border-bottom:1px solid #B2D1D7;
+   padding:6px 6px 0;
+   margin:0 auto;
+   position: relative;
+   z-index: 499;
+   text-align: left;
+}
+
+ul.hmenu a, ul.hmenu a:link, ul.hmenu a:visited, ul.hmenu a:hover 
+{
+   outline: none;
+   position: relative;
+   z-index: 11;
+}
+
+ul.hmenu, ul.hmenu ul
+{
+   display: block;
+   margin: 0;
+   padding: 0;
+   border: 0;
+   list-style-type: none;
+}
+
+ul.hmenu li
+{
+   position: relative;
+   z-index: 5;
+   display: block;
+   float: left;
+   background: none;
+   margin: 0;
+   padding: 0;
+   border: 0;
+}
+
+ul.hmenu li:hover
+{
+   z-index: 10000;
+   white-space: normal;
+}
+
+ul.hmenu:after, ul.hmenu ul:after
+{
+   content: ".";
+   height: 0;
+   display: block;
+   visibility: hidden;
+   overflow: hidden;
+   clear: both;
+}
+
+ul.hmenu, ul.hmenu ul 
+{
+   min-height: 0;
+}
+
+ul.hmenu 
+{
+   display: inline-block;
+   vertical-align: bottom;
+}
+
+.nav:before 
+{
+   content:' ';
+}
+
+.nav
+{
+   width: 900px;
+   padding-left: 6px;
+   padding-right: 6px;
+}
+
+.hmenu
+{
+   float: left;
+}
+
+ul.hmenu>li 
+{
+   margin-left: 4px;
+}
+ul.hmenu>li:first-child 
+{
+   margin-left: 2px;
+}
+ul.hmenu>li:last-child, ul.hmenu>li.last-child 
+{
+   margin-right: 2px;
+}
+
+ul.hmenu>li>a
+{
+   background: #6EC9DD;
+   background: linear-gradient(top, #8FD5E5 0, #51BED6 100%) no-repeat;
+   background: -webkit-linear-gradient(top, #8FD5E5 0, #51BED6 100%) no-repeat;
+   background: -moz-linear-gradient(top, #8FD5E5 0, #51BED6 100%) no-repeat;
+   background: -o-linear-gradient(top, #8FD5E5 0, #51BED6 100%) no-repeat;
+   background: -ms-linear-gradient(top, #8FD5E5 0, #51BED6 100%) no-repeat;
+   background: linear-gradient(top, #8FD5E5 0, #51BED6 100%) no-repeat;
+   -svg-background: linear-gradient(top, #8FD5E5 0, #51BED6 100%) no-repeat;
+   -webkit-border-radius:2px 2px 0 0;
+   -moz-border-radius:2px 2px 0 0;
+   border-radius:2px 2px 0 0;
+   border:1px solid #2995AE;
+   border-bottom:none;
+   padding:0 22px;
+   margin:0 auto;
+   position: relative;
+   display: block;
+   height: 28px;
+   cursor: pointer;
+   text-decoration: none;
+   color: #132225;
+   line-height: 28px;
+   text-align: center;
+}
+
+.hmenu>li>a, 
+.hmenu>li>a:link, 
+.hmenu>li>a:visited, 
+.hmenu>li>a.active, 
+.hmenu>li>a:hover
+{
+   font-size: 13px;
+   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   text-transform: uppercase;
+   text-align: left;
+}
+
+ul.hmenu>li>a.active
+{
+   background: #E1EDEF;
+   background: linear-gradient(top, #FFFFFF 0, #C2DBE0 100%) no-repeat;
+   background: -webkit-linear-gradient(top, #FFFFFF 0, #C2DBE0 100%) no-repeat;
+   background: -moz-linear-gradient(top, #FFFFFF 0, #C2DBE0 100%) no-repeat;
+   background: -o-linear-gradient(top, #FFFFFF 0, #C2DBE0 100%) no-repeat;
+   background: -ms-linear-gradient(top, #FFFFFF 0, #C2DBE0 100%) no-repeat;
+   background: linear-gradient(top, #FFFFFF 0, #C2DBE0 100%) no-repeat;
+   -svg-background: linear-gradient(top, #FFFFFF 0, #C2DBE0 100%) no-repeat;
+   -webkit-border-radius:2px 2px 0 0;
+   -moz-border-radius:2px 2px 0 0;
+   border-radius:2px 2px 0 0;
+   border:1px solid #B2D1D7;
+   border-bottom:none;
+   padding:0 22px;
+   margin:0 auto;
+   color: #2E778A;
+   padding-bottom: 1px;
+   margin-bottom: -1px;
+   text-decoration: none;
+}
+
+ul.hmenu>li>a:visited, 
+ul.hmenu>li>a:hover, 
+ul.hmenu>li:hover>a {
+   text-decoration: none;
+}
+
+ul.hmenu>li>a:hover, .desktop ul.hmenu>li:hover>a
+{
+   background: #B2D1D7;
+   background: linear-gradient(top, #CDE1E5 0, #97C1C9 100%) no-repeat;
+   background: -webkit-linear-gradient(top, #CDE1E5 0, #97C1C9 100%) no-repeat;
+   background: -moz-linear-gradient(top, #CDE1E5 0, #97C1C9 100%) no-repeat;
+   background: -o-linear-gradient(top, #CDE1E5 0, #97C1C9 100%) no-repeat;
+   background: -ms-linear-gradient(top, #CDE1E5 0, #97C1C9 100%) no-repeat;
+   background: linear-gradient(top, #CDE1E5 0, #97C1C9 100%) no-repeat;
+   -svg-background: linear-gradient(top, #CDE1E5 0, #97C1C9 100%) no-repeat;
+   -webkit-border-radius:2px 2px 0 0;
+   -moz-border-radius:2px 2px 0 0;
+   border-radius:2px 2px 0 0;
+   border:1px solid #68A5B1;
+   border-bottom:none;
+   padding:0 22px;
+   margin:0 auto;
+}
+ul.hmenu>li>a:hover, 
+.desktop ul.hmenu>li:hover>a {
+   color: #144B57;
+   text-decoration: none;
+}
+ul.hmenu>li>a.active:hover {
+   padding-bottom: 0;
+   margin-bottom: 0;
+}
+
+.sheet
+{
+   background: #FFFFFF;
+   margin:10px auto 0;
+   position:relative;
+   cursor:auto;
+   width: 900px;
+   z-index: auto !important;
+}
+
+.layout-wrapper
+{
+   position: relative;
+   margin: 0 auto 0 auto;
+   z-index: auto !important;
+}
+
+.content-layout
+{
+   display: table;
+   width: 100%;
+   table-layout: fixed;
+}
+
+.content-layout-row 
+{
+   display: table-row;
+}
+
+.layout-cell
+{
+   display: table-cell;
+   vertical-align: top;
+}
+
+/* need only for content layout in post content */ 
+.postcontent .content-layout
+{
+   border-collapse: collapse;
+}
+
+.block
+{
+   margin:3px;
+   border:1px solid #B2D1D7;
+}
+div.block img
+{
+   border: none;
+   margin: 0;
+}
+
+.blockheader
+{
+   background-color : #CDE8EE;
+   padding:6px 5px;
+   margin:0 auto 2px;
+}
+.blockheader .t,
+.blockheader .t a,
+.blockheader .t a:link,
+.blockheader .t a:visited, 
+.blockheader .t a:hover
+{
+   color: #000000;
+   font-size: 20px;
+   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-weight: normal;
+   font-style: normal;
+   margin: 0 5px;
+}
+
+.blockcontent
+{
+   padding:5px;
+   margin:0 auto;
+   color: #205360;
+   font-size: 13px;
+   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   line-height: 175%;
+}
+.blockcontent table,
+.blockcontent li, 
+.blockcontent a,
+.blockcontent a:link,
+.blockcontent a:visited,
+.blockcontent a:hover
+{
+   color: #205360;
+   font-size: 13px;
+   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   line-height: 175%;
+}
+
+.blockcontent p
+{
+   margin: 0 5px;
+}
+
+.blockcontent a, .blockcontent a:link
+{
+   color: #30B2CF;
+   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+}
+
+.blockcontent a:visited, .blockcontent a.visited
+{
+   color: #A1C7CE;
+   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   text-decoration: none;
+}
+
+.blockcontent a:hover, .blockcontent a.hover
+{
+   color: #6AB9CD;
+   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   text-decoration: none;
+}
+.block ul>li:before
+{
+   content:url('../images/blockbullets.png');
+   margin-right:6px;
+   bottom: 2px;
+   position:relative;
+   display:inline-block;
+   vertical-align:middle;
+   font-size:0;
+   line-height:0;
+   margin-left: -12px;
+}
+.opera .block ul>li:before
+{
+   /* Vertical-align:middle in Opera doesn't need additional offset */
+    bottom: 0;
+}
+
+.block li
+{
+   font-size: 13px;
+   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   line-height: 175%;
+   color: #14353D;
+   margin: 5px 0 0 10px;
+}
+
+.block ul>li, .block ol
+{
+   padding: 0;
+}
+
+.block ul>li
+{
+   padding-left: 12px;
+}
+
+input.button,
+button.button,
+.button a
+{
+   text-decoration: none;
+   font-size: 13px;
+   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-weight: normal;
+   font-style: normal;
+   position:relative;
+   display: inline-block;
+   vertical-align: middle;
+   white-space: nowrap;
+   text-align: center;
+   color: #17282C;
+   margin: 5px 5px 0 0 !important;
+   overflow: visible;
+   cursor: pointer;
+   text-indent: 0;
+   line-height: 24px;
+   -webkit-box-sizing: content-box;
+   -moz-box-sizing: content-box;
+   box-sizing: content-box;
+}
+
+.button img
+{
+   margin: 0;
+   vertical-align: middle;
+}
+
+.firefox2 .button
+{
+   display: block;
+   float: left;
+}
+
+input, select, textarea, a.search-button span
+{
+   vertical-align: middle;
+   font-size: 13px;
+   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-weight: normal;
+   font-style: normal;
+}
+
+.block select 
+{
+   width:96%;
+}
+
+input.button
+{
+   float: none !important;
+}
+
+.button.active, .button.active:hover
+{
+   background: #2A6D7E;
+   -webkit-border-radius:3px;
+   -moz-border-radius:3px;
+   border-radius:3px;
+   border-width: 0;
+   padding:0 21px;
+   margin:0 auto;
+}
+.button.active, .button.active:hover {
+   color: #C9EBF2 !important;
+}
+
+.button.hover, .button:hover
+{
+   background: #378FA4;
+   -webkit-border-radius:3px;
+   -moz-border-radius:3px;
+   border-radius:3px;
+   border-width: 0;
+   padding:0 21px;
+   margin:0 auto;
+}
+.button.hover, .button:hover {
+   color: #CDE8EE !important;
+}
+
+input[type="text"], input[type="password"], input[type="email"], input[type="url"], textarea
+{
+   width: 100%;
+   padding: 4px 0;
+   color: #205360 !important;
+   font-size: 13px;
+   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-weight: normal;
+   font-style: normal;
+   text-shadow: none;
+   background: #FFFFFF;
+   -webkit-border-radius:4px;
+   -moz-border-radius:4px;
+   border-radius:4px;
+   border:1px solid #B2D1D7;
+   margin:0 auto;
+}
+
+.in_reg
+{
+   text-align: right;  
+   width: 80%;
+}
+.prod, .bag, .about_prod
+{
+   padding: 0 10px 0 10px;
+   border:1px solid #B2D1D7;
+   margin-bottom: 10px;
+   overflow: hidden;
+
+}
+.prod img
+{
+   float: left;
+   max-width: 150px;
+   max-height: 180px;*/
+}
+.prod p
+{
+   font-size: 18px;
+   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+}
+.about_prod
+{
+   padding: 0 10px 0 10px;
+   border:1px solid #B2D1D7;
+   margin-bottom: 10px;
+   overflow: hidden;
+
+}
+.about_prod img
+{
+   float: left;
+   max-width: 150px;
+   max-height: 200px;
+}
+.about_prod table, .about_prod p, .bag table, .about, .reg
+{
+   margin:20px;
+   font-size: 14px;
+   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   color: #2A6D7E;
+}
+.about_prod div
+{
+   clear: both;
+}
+.bag table
+{
+   border: 1px solid #2995AE;
+   width: 40%;
+   min-width:170px;
+   margin-bottom: 5px;
+   float: left;
+}
+.bag table p
+{
+   float: left;
+   font-size: 14px;
+   color: #2A6DAE;
+}
+
+form.search input[type="text"]
+{
+   background: #FFFFFF;
+   -webkit-border-radius:4px;
+   -moz-border-radius:4px;
+   border-radius:4px;
+   border:1px solid #B2D1D7;
+   margin:0 auto;
+   width: 100%;
+   padding: 4px 0;
+   -webkit-box-sizing: border-box;
+   -moz-box-sizing: border-box;
+   box-sizing: border-box;
+   color: #205360 !important;
+   font-size: 13px;
+   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-weight: normal;
+   font-style: normal;
+}
+
+.post
+{
+   padding:5px;
+}
+a img
+{
+   border: 0;
+}
+
+.article img, img.article, .block img, .footer img
+{
+   margin: 7px 7px 7px 7px;
+}
+
+.postmetadataheader
+{
+   background: #98CFDD;
+   background: rgba(152, 207, 221, 0.5);
+   -webkit-border-radius:4px;
+   -moz-border-radius:4px;
+   border-radius:4px;
+   border:1px solid #71BDD0;
+   margin:0 auto;
+   position:relative;
+   z-index:1;
+   padding: 1px;
+   margin-bottom: 5px;
+}
+
+.postheader
+{
+   color: #12434E;
+   margin: 5px 10px;
+   font-size: 24px;
+   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-weight: normal;
+   font-style: normal;
+   text-align: center;
+}
+
+.postheader a, 
+.postheader a:link, 
+.postheader a:visited,
+.postheader a.visited,
+.postheader a:hover,
+.postheader a.hovered
+{
+   font-size: 24px;
+   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-weight: normal;
+   font-style: normal;
+   text-align: center;
+}
+
+.postheader a, .postheader a:link
+{
+   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   text-decoration: none;
+   text-align: left;
+   color: #248399;
+}
+
+.postheader a:visited, .postheader a.visited
+{
+   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   text-decoration: none;
+   text-align: left;
+   color: #2CA0BA;
+}
+
+.postheader a:hover,  .postheader a.hovered
+{
+   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   text-decoration: none;
+   text-align: left;
+   color: #0E323A;
+}
+.postcontent ul>li:before,  .post ul>li:before,  .textblock ul>li:before
+{
+   content:url('../images/postbullets.png');
+   margin-right:10px;
+   bottom: 2px;
+   position:relative;
+   display:inline-block;
+   vertical-align:middle;
+   font-size:0;
+   line-height:0;
+}
+.opera .postcontent ul>li:before, .opera   .post ul>li:before, .opera   .textblock ul>li:before
+{
+   /* Vertical-align:middle in Opera doesn't need additional offset */
+    bottom: 0;
+}
+
+.postcontent li, .post li, .textblock li
+{
+   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   color: #0E191B;
+   margin: 3px 0 0 11px;
+}
+
+.postcontent ul>li, .post ul>li, .textblock ul>li, .postcontent ol, .post ol, .textblock ol
+{
+   padding: 0;
+}
+
+.postcontent ul>li, .post ul>li, .textblock ul>li
+{
+   padding-left: 17px;
+}
+
+.postcontent ul>li:before,  .post ul>li:before,  .textblock ul>li:before
+{
+   margin-left: -17px;
+}
+
+.postcontent ol, .post ol, .textblock ol, .postcontent ul, .post ul, .textblock ul
+{
+   margin: 1em 0 1em 11px;
+}
+
+.postcontent li ol, .post li ol, .textblock li ol, .postcontent li ul, .post li ul, .textblock li ul
+{
+   margin: 0.5em 0 0.5em 11px;
+}
+
+.postcontent li, .post li, .textblock li
+{
+   margin: 3px 0 0 0;
+}
+
+.postcontent ol>li, .post ol>li, .textblock ol>li
+{
+   /* overrides overflow for "ul li" and sets the default value */
+  overflow: visible;
+}
+
+.postcontent ul>li, .post ul>li, .textblock ul>li
+{
+   /* makes "ul li" not to align behind the image if they are in the same line */
+  overflow-x: visible;
+   overflow-y: hidden;
+}
+
+.footer
+{
+   border-top:1px dotted #B2D1D7;
+   padding:25px;
+   margin:20px auto 0;
+   position: relative;
+   color: #1C3236;
+   font-size: 13px;
+   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   line-height: 175%;
+   text-align: center;
+}
+
+.footer a,
+.footer a:link,
+.footer a:visited,
+.footer a:hover,
+.footer td, 
+.footer th,
+.footer caption
+{
+   color: #1C3236;
+   font-size: 13px;
+   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   line-height: 175%;
+}
+
+.footer p 
+{
+   padding:0;
+   text-align: center;
+}
+
+.footer a,
+.footer a:link
+{
+   color: #25879D;
+   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   text-decoration: none;
+}
+
+.footer a:visited
+{
+   color: #7CB1BB;
+   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   text-decoration: none;
+}
+
+.footer a:hover
+{
+   color: #5EC3D9;
+   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   text-decoration: underline;
+}
+
+.footer h1
+{
+   color: #4BABC3;
+   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+}
+
+.footer h2
+{
+   color: #71BDD0;
+   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+}
+
+.footer h3
+{
+   color: #B2D1D7;
+   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+}
+
+.footer ul>li:before
+{
+   content:url('../images/footerbullets.png');
+   margin-right:6px;
+   bottom: 2px;
+   position:relative;
+   display:inline-block;
+   vertical-align:middle;
+   font-size:0;
+   line-height:0;
+   margin-left: -13px;
+}
+.opera .footer ul>li:before
+{
+   /* Vertical-align:middle in Opera doesn't need additional offset */
+    bottom: 0;
+}
+
+.footer li
+{
+   font-size: 13px;
+   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   color: #14353D;
+}
+
+.footer ul>li, .footer ol
+{
+   padding: 0;
+}
+
+.footer ul>li
+{
+   padding-left: 13px;
+}
+
+.page-footer, 
+.page-footer a,
+.page-footer a:link,
+.page-footer a:visited,
+.page-footer a:hover
+{
+   font-family: Arial;
+   font-size: 10px;
+   letter-spacing: normal;
+   word-spacing: normal;
+   font-style: normal;
+   font-weight: normal;
+   text-decoration: underline;
+   color: #286777;
+}
+
+.page-footer
+{
+   position: relative;
+   z-index: auto !important;
+   padding: 1em;
+   text-align: center !important;
+   text-decoration: none;
+   color: #366068;
+}
+
+.content-layout .sidebar1
+{
+   border-right:1px dotted #B2D1D7;
+   margin:0 auto;
+   width: 200px;
+}
+
+.content-layout .content
+{
+   margin:0 auto;
+}
+
+.content-layout .sidebar2
+{
+   border-left:1px dotted #B2D1D7;
+   margin:0 auto;
+   width: 200px;
+}
+
+/* Begin Additional CSS Styles */
+
+/* End Additional CSS Styles */
